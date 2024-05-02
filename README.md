@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Major</h1>
-<h3 align="center">A passionate software engineering student from Waterloo, Ontario</h3>
+<h3 align="center">A passionate computer science student from Waterloo, Ontario</h3>
 
 <h3 align="left">Connect with me: ethanmajor9@gmail.com</h3>
 <p align="left">
