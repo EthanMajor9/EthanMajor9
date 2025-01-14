@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Ethan Major</h1>
 <h3 align="center">An aspiring software developer from Waterloo, Ontario!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ethanmajor9@gmail.com</h3>
 <p align="left">
 </p>
 
